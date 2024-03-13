@@ -7,7 +7,7 @@ int main()
     printf("metti una parola\n");
     scanf(" %s", a);
     printf("|%s|", a);
-    while (a[b]!= '\0');
+    while (a[b]!= '\0')
     {
         printf("%s\n",a);
         if( a[b] >=97 && a[b] <= 122)
